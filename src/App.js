@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Please work! Please please please. Tulog na ko please.
+          Hello blog, welcome to my guys. uWu
         </p>
         <a
           className="App-link"
